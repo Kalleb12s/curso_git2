@@ -2,4 +2,8 @@ ola blz aaaa gggggggggg
 aaaaaaaaaaa
 kkk
 nova branch irmão 
+<<<<<<< HEAD
 nova tag iiiii
+=======
+nova tag irmaooooooooooooooooooo
+>>>>>>> bc3c433e9f311b53a681f9bc315bf03f7e2312d5
